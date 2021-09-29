@@ -1,7 +1,7 @@
 # BMI_Calculator
 
 ## About the Program:
-You can calculate your BMI score by this program eaily!
+You can calculate your BMI score with this program eaily!
 
 ### Preview:
 ![preview](/Files/preview.png)
